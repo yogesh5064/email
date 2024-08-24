@@ -1,0 +1,8 @@
+{
+  "name": "email",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "df9d625c"
+}
